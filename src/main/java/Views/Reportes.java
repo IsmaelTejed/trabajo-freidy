@@ -115,7 +115,7 @@ public class Reportes extends javax.swing.JFrame {
                 jTextField9ActionPerformed(evt);
             }
         });
-        jPanel1.add(jTextField9, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 120, 150, 30));
+        jPanel1.add(jTextField9, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 140, 150, 30));
 
         jButton4.setBackground(new java.awt.Color(255, 255, 51));
         jButton4.setText("Buscar");
@@ -125,7 +125,7 @@ public class Reportes extends javax.swing.JFrame {
                 jButton4ActionPerformed(evt);
             }
         });
-        jPanel1.add(jButton4, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 120, 90, 30));
+        jPanel1.add(jButton4, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 140, 90, 30));
 
         jButton1.setBackground(new java.awt.Color(51, 255, 51));
         jButton1.setText("Agregar");
